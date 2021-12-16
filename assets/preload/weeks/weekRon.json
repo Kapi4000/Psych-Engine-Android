@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Ron", "ron", [146, 113, 253], "Bopeebo"],
+		["Ayo", "ronmad", [146, 113, 253], "Fresh"],
+		["Bloodshed", "ronhell", [146, 113, 253], "Dad Battle"]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Ron",
+	"weekBefore": "tutorial",
+	"weekName": "WeekRon",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+}
